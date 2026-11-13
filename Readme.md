@@ -5,13 +5,12 @@ SalonFlow is an Object-Oriented Programming (OOP) student project designed to he
 Group Members
 
 
-No.	Name	                Student Number
-1	Mutale Granous Mulenga	2410121
-2	Banda Thandiwe	        2301157
-3	Nyati Indaba	        2300097
-4   Cynthia Moonze          2300262
+    No.	Name	                Student Number
+    1	Mutale Granous Mulenga	2410121
+    2	Banda Thandiwe	        2301157
+    3	Nyati Indaba	        2300097
+    4   Cynthia Moonze          2300262
 
-Note: Banda Thandiwe (2301157) was provided twice and is listed once here.
 Project Objectives
 
     Register and manage customer information.
