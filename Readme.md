@@ -3,6 +3,8 @@ Salon Appointment and Queue Management System
 
 SalonFlow is an Object-Oriented Programming (OOP) student project designed to help small salons manage customer appointments, stylist availability, and waiting queues.
 Group Members
+
+
 No.	Name	                Student Number
 1	Mutale Granous Mulenga	2410121
 2	Banda Thandiwe	        2301157
